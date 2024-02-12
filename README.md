@@ -8,3 +8,7 @@ Projeto desenvolvido na Trilha Ignite - @Rocketseat
 - React.js
 - Styled Components
 - ESLint
+
+### melhorias
+
+- [ ] Versão mobile
